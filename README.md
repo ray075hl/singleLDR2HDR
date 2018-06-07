@@ -1,6 +1,9 @@
 # singleLDR2HDR
 An implementation of generating high dynamic range image from single low dynamic range image.  
+## Experiment Result 
+![](./doc_img/result1.png)
 
+![](./doc_img/result2.png)
 
 
 ## Attention
@@ -19,9 +22,5 @@ Usage:
 python run.py ./test_image/test1.jpg
 ```
 
-## Algorithm Results 
-![](./doc_img/result1.png)
-
-![](./doc_img/result2.png)
 ## Reference
-[Generation of High Dynamic Range Illumination from a Single Image for the Enhancement of Undesirably Illuminated Images](https://arxiv.org/abs/1708.00636?context=cs)
+[1][Generation of High Dynamic Range Illumination from a Single Image for the Enhancement of Undesirably Illuminated Images](https://arxiv.org/abs/1708.00636?context=cs)
